@@ -1,7 +1,7 @@
 # ds2002midterm
 ## To Run
 * Clone this repo
-* Build source database by running files in Sakila Database subdirectory (should already come installed on MySQLWorkbench though)
+* Build source database by running SQL files in Sakila Database subdirectory (should already come installed on MySQLWorkbench though)
 * Run 1CreateWarehouse.sql to build warehouse database on MySQL Workbench
 * Run 2PopulateWarehouse.sql to populate warehouse with actual data from sakila
 * Run 3LoadCSV.py to pull data from "CountriesContinents.csv", add staging table to MySQL server, and enrich "dim_customer" table through "continent" column (dataset taken from https://www.kaggle.com/datasets/hserdaraltan/countries-by-continent)
