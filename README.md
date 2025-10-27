@@ -1,5 +1,6 @@
 # ds2002midterm
-## To run
+## To Run
+* Clone this repo
 * Build source database by running files in Sakila Database subdirectory (should already come installed on MySQLWorkbench though)
 * Run 1CreateWarehouse.sql to build warehouse database on MySQL Workbench
 * Run 2PopulateWarehouse.sql to populate warehouse with actual data from sakila
