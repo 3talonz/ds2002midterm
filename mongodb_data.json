@@ -1,0 +1,22 @@
+[
+  {"email":"mary.smith@sakilacustomer.org","loyalty_tier":"PLATINUM","loyalty_score":915},
+  {"email":"patricia.johnson@sakilacustomer.org","loyalty_tier":"GOLD","loyalty_score":782},
+  {"email":"linda.williams@sakilacustomer.org","loyalty_tier":"SILVER","loyalty_score":655},
+  {"email":"barbara.jones@sakilacustomer.org","loyalty_tier":"BRONZE","loyalty_score":410},
+  {"email":"elizabeth.brown@sakilacustomer.org","loyalty_tier":"PLATINUM","loyalty_score":948},
+  {"email":"jennifer.davis@sakilacustomer.org","loyalty_tier":"GOLD","loyalty_score":801},
+  {"email":"maria.miller@sakilacustomer.org","loyalty_tier":"SILVER","loyalty_score":620},
+  {"email":"susan.wilson@sakilacustomer.org","loyalty_tier":"BRONZE","loyalty_score":395},
+  {"email":"margaret.moore@sakilacustomer.org","loyalty_tier":"GOLD","loyalty_score":768},
+  {"email":"dorothy.taylor@sakilacustomer.org","loyalty_tier":"PLATINUM","loyalty_score":923},
+  {"email":"lisa.anderson@sakilacustomer.org","loyalty_tier":"SILVER","loyalty_score":588},
+  {"email":"nancy.thomas@sakilacustomer.org","loyalty_tier":"BRONZE","loyalty_score":442},
+  {"email":"karen.jackson@sakilacustomer.org","loyalty_tier":"GOLD","loyalty_score":774},
+  {"email":"betty.white@sakilacustomer.org","loyalty_tier":"PLATINUM","loyalty_score":962},
+  {"email":"helen.harris@sakilacustomer.org","loyalty_tier":"SILVER","loyalty_score":631},
+  {"email":"sandra.martin@sakilacustomer.org","loyalty_tier":"BRONZE","loyalty_score":407},
+  {"email":"donna.thompson@sakilacustomer.org","loyalty_tier":"GOLD","loyalty_score":756},
+  {"email":"carol.garcia@sakilacustomer.org","loyalty_tier":"SILVER","loyalty_score":603},
+  {"email":"ruth.martinez@sakilacustomer.org","loyalty_tier":"PLATINUM","loyalty_score":941},
+  {"email":"sharon.robinson@sakilacustomer.org","loyalty_tier":"BRONZE","loyalty_score":368}
+]
